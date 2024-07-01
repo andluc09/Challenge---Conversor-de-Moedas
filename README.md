@@ -14,3 +14,16 @@ Neste projeto será feito requisições a uma API de taxas de câmbio, manipula�
 
 ![image](https://github.com/andluc09/Challenge_-_Conversor_de_Moedas/blob/main/Conversor%20de%20Moedas%202%20-%20Historico%20e%20Log.png?raw=true)
 
+## Ferramentas utilizadas:
+
+* Java
+
+* API: ExchangeRate-API
+
+* JSON (Arquivo)
+
+## Feito por:
+
+### André Santos
+
+### Linkedin: https://www.linkedin.com/in/andr%C3%A9-lucas-de-macedo-santos/
